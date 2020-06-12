@@ -1,6 +1,6 @@
 {
-    margin: 0px;
-    padding: 0px;
+    margin: 10px;
+    padding: 10px;
    }
    #wrapper{
     width: 950px;
@@ -15,16 +15,22 @@
     min-height: 300px;
     width: 200px;
     background-color: blue;
+    display: inline-block;
+    vertical-align: top;             
    }
    #main_content{
     min-height: 400px;
     width: 700px;
     background-color: red;
+    display;Inline-block;
+    margin-left 15px;
    }
    .subcontents{
     min-height: 200px;
     width: 210px;
     background-color: yellow;
+    display:inline-block;
+    margin-right:15px;
    }
    #advertisement{
     min-height: 120px;
